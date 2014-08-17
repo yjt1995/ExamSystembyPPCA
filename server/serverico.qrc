@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="computerIcon">images/mytrayIcon.png</file>
+        <file alias="linked">images/linkico.gif</file>
+        <file alias="unlinked">images/unlinkico.png</file>
+    </qresource>
+</RCC>
