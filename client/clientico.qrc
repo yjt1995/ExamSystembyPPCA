@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="computerIcon">images/mytrayIcon.png</file>
+        <file alias="blackscreen">images/screen-background.png</file>
+        <file alias="blackscreen2">images/screen-background2.png</file>
+    </qresource>
+</RCC>
